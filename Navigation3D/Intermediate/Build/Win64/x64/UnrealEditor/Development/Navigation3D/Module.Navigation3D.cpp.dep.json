@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mehme\\onedrive\\belgeler\\unreal projects\\movementsystem\\plugins\\navigation3d\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\navigation3d\\module.navigation3d.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mehme\\onedrive\\belgeler\\unreal projects\\movementsystem\\intermediate\\build\\win64\\x64\\movementsystemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\mehme\\onedrive\\belgeler\\unreal projects\\movementsystem\\plugins\\navigation3d\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\navigation3d\\definitions.navigation3d.h",
+            "c:\\users\\mehme\\onedrive\\belgeler\\unreal projects\\movementsystem\\plugins\\navigation3d\\intermediate\\build\\win64\\unrealeditor\\inc\\navigation3d\\uht\\navigation3d.init.gen.cpp",
+            "c:\\users\\mehme\\onedrive\\belgeler\\unreal projects\\movementsystem\\plugins\\navigation3d\\intermediate\\build\\win64\\unrealeditor\\inc\\navigation3d\\uht\\navigation3dvolume.gen.cpp",
+            "c:\\users\\mehme\\onedrive\\belgeler\\unreal projects\\movementsystem\\plugins\\navigation3d\\source\\navigation3d\\public\\navigation3dvolume.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "c:\\users\\mehme\\onedrive\\belgeler\\unreal projects\\movementsystem\\plugins\\navigation3d\\intermediate\\build\\win64\\unrealeditor\\inc\\navigation3d\\uht\\navigation3dvolume.generated.h",
+            "c:\\users\\mehme\\onedrive\\belgeler\\unreal projects\\movementsystem\\plugins\\navigation3d\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\navigation3d\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

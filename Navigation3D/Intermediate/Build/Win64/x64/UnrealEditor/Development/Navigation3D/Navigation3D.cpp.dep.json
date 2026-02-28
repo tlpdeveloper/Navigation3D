@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\mehme\\onedrive\\belgeler\\unreal projects\\movementsystem\\plugins\\navigation3d\\source\\navigation3d\\private\\navigation3d.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\mehme\\onedrive\\belgeler\\unreal projects\\movementsystem\\intermediate\\build\\win64\\x64\\movementsystemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\mehme\\onedrive\\belgeler\\unreal projects\\movementsystem\\plugins\\navigation3d\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\navigation3d\\definitions.navigation3d.h",
+            "c:\\users\\mehme\\onedrive\\belgeler\\unreal projects\\movementsystem\\plugins\\navigation3d\\source\\navigation3d\\public\\navigation3d.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
